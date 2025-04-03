@@ -20,7 +20,7 @@ text-align: center;
 height: 60vh;
 padding: 10px;
 }
-.bg{background-image: url(.img/лого сити.png);
+.bg{background-image: url(img/лого сити.png);
 height: 100vh;
 background-size: cover;}
 .inline {margin-top: 5%;}
