@@ -83,7 +83,7 @@ img{width: 40%;}
         align-items: center;
         padding-right: 7%;
    }
-    .bg{background-image: url(/img/image.JPG );
+    .bg{background: linear-gradient(red,black, rgb(0, 0, 0));
 
         background-attachment: fixed;
         width: 100%;
@@ -106,7 +106,7 @@ img{width: 40%;}
         align-items: center;
         padding-right: 7%;
    }
-    .bg{background-image: url(/img/image.JPG  );
+    .bg{background: linear-gradient(red,black, rgb(0, 0, 0));
 
         background-attachment: fixed;
         width: 100%;
@@ -139,7 +139,7 @@ img{width: 40%;}
 
 z-index: 2;
 }
-    .bg{background-image: url(/img/image.JPG  );
+    .bg{background: linear-gradient(red,black, rgb(0, 0, 0));
 
         background-attachment: fixed;
         width: 100%;
@@ -184,7 +184,7 @@ z-index: 2;
         padding-right: 7%;
    }
    
-    .bg{background-image: url(/img/image.JPG  );
+    .bg{background: linear-gradient(red,black, rgb(0, 0, 0));
 
         background-attachment: fixed;
         width: 100%;
